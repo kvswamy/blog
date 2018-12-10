@@ -1,0 +1,34 @@
+About Project
+E-commerce site project is developed using PHP, CSS, Bootstrap, and JavaScript. Talking about the project, it has all the required essential features. This project has a user side where he/she can view product category and add products to cart and proceed for checkout whereas from administration side he/she can view sales, number of product, users, daily sales report, add product and categories. The user can also leave comments on each product if he/she wants. In this project, all the main functions are performed from the Admin side.
+About System
+Admin has full control of the system, he/she can view daily/monthly sales report for each year, manage all existing users, add, view, edit, delete products and categories. Monthly sales report is represented in the form of Bar Graphs. While adding products, the admin has to provide Product’s name, select category, price, upload product’s photo and write a description. Adding a product category is simple, the admin just has to provide Category name. Just like the other popular e-commerce, here while looking a product’s image the images magnifies whenever mouse cursor is dragged onto it. The system redirects to Paypal for checkout. A responsive dashboard is provided in the admin panel for the easy management of the site.
+In short, this E-commerce site in PHP project is a bit similar with a WordPress e-commerce site. Mostly, the adding description has the same feature of that of WordPress. All the important features that are required for an eCommerce site is set for this project. Design of this project is pretty simple and responsive so that user won’t find it difficult to understand, use and navigate.
+To run this project you must have installed virtual server i.e XAMPP on your pc (for Windows). E-commerce Site in PHP is free to download with source code. For the project demo, have a look at the image slider below.
+
+Admin Panel
+Login/Sign Up
+Magnify product image
+Product Cart
+Google ReCaptcha
+Checkout using Paypal
+Add, Edit, Remove and View Products
+User Management
+View daily/monthly sales
+How To Run??
+After Starting Apache and MySQL in XAMPP, follow the following steps
+1st Step: Extract file
+2nd Step: Copy the main project folder
+3rd Step: Paste in xampp/htdocs/
+Now Connecting Database
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on databases tab
+6th Step: Create database naming “ecomm” and then click on import tab
+7th Step: Click on browse file and select “ecomm.sql” file which is inside “database” folder
+8th Step: Click on go.
+After Creating Database,
+9th Step: Open a browser and go to URL “http://localhost/ecommerce/”
+For Admin Panel
+Final Step: Login from the User’s login side. Just provide the Admin’s login detail, it will redirect you to Admin panel.
+Note: Don’t go to URL “http://localhost/ecommerce/admin” for Admin Panel. Just provide Admin’s login detail in User’s login side.
+Provide the username and password which is provided inside the “Readme.txt” file.
+LOGIN DETAILS ARE PROVIDED IN “Readme.txt” FILE INSIDE PROJECT 
