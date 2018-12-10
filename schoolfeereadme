@@ -1,0 +1,28 @@
+About Project
+School Fees Payment System project is developed using PHP, CSS, and JavaScript. Talking about the project, it has all the essential features. This project has an administration side from Where he/she can view branch, students, fees, report, manage fees, students, branches, settings. In this project, all the functions are performed from the Admin side which means there is no user side.
+About System
+Admin has full control of the system, he/she can view branch, students, fees and manage branch, students, fees from the system. The project also includes a Fees report of students in Report module, which displays Fees Information as well as respective Student information. He/she can add, edit, delete, view Branch. While adding Branch, he/she has to provide Branch Name, Address, and Detail. Likewise while adding students, he/she has to provide Personal information like Name, Contact, branch, DOJ, Fees Information like Total Fees, Advance Fee, Remarks and Optional Information like About student and Email id. To take Fees for a student, the user has to provide Paid amount, date and Remarks. After paying fees of the student, that particular name will be removed from Fees module.
+Another feature is that the user can change the password by entering Old Password, New Password and Confirm Password from the Settings. A simple dashboard is provided in admin panel for the easy management of the system. All the important features that are required is set for this project. Design of this project is pretty and responsive so that user won’t find it difficult to understand, use and navigate.
+To run this project you must have installed virtual server i.e XAMPP on your pc (for Windows). School Fees Payment System in PHP is free to download with source code. For the project demo, have a look at the image slider below
+
+Administrative Side
+Add, Edit, View and Delete Branch
+Add, Edit, View and Delete Students
+Take Fees
+View Fees Report
+Settings
+How To Run??
+After Starting Apache and MySQL in XAMPP, follow the following steps
+1st Step: Extract file
+2nd Step: Copy main project folder
+3rd Step: Paste in xampp/htdocs/
+Now Connecting Database
+4th Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+5th Step: Then, click on databases tab
+6th Step: Create database naming “paysystem” and then click on import tab
+7th Step: Click on browse file and select “paysystem.sql” file which is inside “database” folder
+8th Step: Click on go.
+After Creating Database,
+Final Step: Open a browser and go to URL “http://localhost/School_Fees_System/”
+Insert the email id and password which is provided inside “Readme.txt” file.
+LOGIN DETAILS ARE PROVIDED IN “Readme.txt” FILE INSIDE PROJECT FOLDER
